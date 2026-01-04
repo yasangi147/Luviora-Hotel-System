@@ -1,0 +1,142 @@
+/* Updated Navigation and Color Scheme */
+
+/* Navigation Bar Updates */
+header #navbar {
+    background: #C38370 !important;
+    border-radius: 0 0 16px 16px;
+}
+
+header .navbar-default .navbar-nav>li.active, 
+header .navbar-default .navbar-nav>li.active>a, 
+header .navbar-default .navbar-nav > li > a:hover {
+    background: #A26B58 !important; /* Darker shade of coral for hover */
+    border-radius: 8px;
+    margin: 0 2px;
+}
+
+/* Navigation Dropdown */
+.navbar-nav li ul {
+    border-top: 2px solid #C38370 !important;
+    border-radius: 0 0 12px 12px !important;
+}
+
+.navbar-nav li ul li a:hover {
+    color: #C38370 !important;
+}
+
+/* Home Section Updates */
+.banner-button {
+    border-radius: 25px !important;
+    background: #C38370 !important;
+    border-color: #C38370 !important;
+}
+
+/* Button Updates */
+.btn-orange,
+.book_now_btn,
+.explore-btn,
+.btn-primary {
+    background: #C38370 !important;
+    border-color: #C38370 !important;
+    border-radius: 25px !important;
+    transition: all 0.3s ease !important;
+}
+
+.btn-orange:hover,
+.book_now_btn:hover,
+.explore-btn:hover,
+.btn-primary:hover {
+    background: #A26B58 !important; /* Darker shade for hover */
+    transform: translateY(-2px);
+}
+
+/* Text Color Updates */
+.section-title h2 span,
+.price,
+.service-content h4 a:hover,
+.room-title h5 a:hover,
+.blog-content h4 a:hover,
+.footer-about a:hover {
+    color: #C38370 !important;
+}
+
+/* Home Banner Section */
+.banner-area {
+    border-radius: 0 0 16px 16px !important;
+}
+
+.banner-content h4,
+.banner-content h1 {
+    color: #C38370 !important;
+}
+
+/* Book Early Save More Text */
+.banner-content h1 span {
+    color: #C38370 !important;
+}
+
+/* Explore Our Rooms Button */
+.explore-rooms-btn {
+    background: #C38370 !important;
+    border-color: #C38370 !important;
+    border-radius: 25px !important;
+    padding: 12px 30px !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.5px !important;
+    text-transform: uppercase !important;
+    transition: all 0.3s ease !important;
+}
+
+.explore-rooms-btn:hover {
+    background: #A26B58 !important;
+    transform: translateY(-2px);
+}
+
+/* Navigation Brand Color */
+.navbar-brand,
+a.navbar-brand span {
+    color: #C38370 !important;
+}
+
+/* Active Link States */
+.nav-link.active,
+.nav-pills .nav-link.active {
+    background: #C38370 !important;
+    border-radius: 8px !important;
+}
+
+/* Search and Book Now Section */
+.availability-form {
+    border-radius: 16px !important;
+    box-shadow: 0 5px 15px rgba(195, 131, 112, 0.1) !important;
+}
+
+/* Call to Action Buttons */
+.cta-button {
+    background: #C38370 !important;
+    border-radius: 25px !important;
+    border: none !important;
+    padding: 12px 30px !important;
+    color: white !important;
+    font-weight: 600 !important;
+    transition: all 0.3s ease !important;
+}
+
+.cta-button:hover {
+    background: #A26B58 !important;
+    transform: translateY(-2px);
+}
+
+/* Book Now Button in Navigation */
+.book_btn .book_now_btn {
+    background: #C38370 !important;
+    border-color: #C38370 !important;
+    border-radius: 25px !important;
+    padding: 8px 20px !important;
+    transition: all 0.3s ease !important;
+}
+
+.book_btn .book_now_btn:hover {
+    background: #A26B58 !important;
+    transform: translateY(-2px);
+}

@@ -1,0 +1,46 @@
+/* Footer Color Theme */
+
+/* Footer headings */
+.footer-about h4,
+.footer-contact h4,
+.quick-links h4,
+.footer-payment h4,
+.Rooms h4 {
+    color: #C38370 !important;
+}
+
+/* Footer links hover */
+.quick-links ul li a:hover,
+.Rooms ul li a:hover,
+.footer-contact ul li a:hover,
+.copyright-links ul li a:hover {
+    color: #C38370 !important;
+}
+
+/* Footer special elements */
+.copyright-content span,
+.copyright-content a,
+.footer-about a {
+    color: #C38370 !important;
+}
+
+/* Footer links hover transition */
+.footer-content a {
+    transition: color 0.3s ease;
+}
+
+/* Footer content emphasis */
+.footer-content strong,
+.footer-content em {
+    color: #C38370 !important;
+}
+
+/* Footer contact info highlights */
+.footer-contact ul li i {
+    color: #C38370 !important;
+}
+
+/* Footer bottom links */
+.copyright-links a:hover {
+    color: #C38370 !important;
+}

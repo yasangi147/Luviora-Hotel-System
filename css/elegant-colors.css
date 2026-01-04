@@ -1,0 +1,200 @@
+/* Elegant Color Scheme */
+
+/* Global Colors */
+body {
+    background-color: #FAF9F6;
+    color: #2E2E2E;
+}
+
+/* Headers and Text */
+h1, h2, h3, h4, h5, h6 {
+    color: #2E2E2E;
+}
+
+.section-title h2 span {
+    color: #C38370 !important;
+}
+
+/* Buttons */
+.btn-orange {
+    background: #C38370 !important;
+    border-color: #C38370 !important;
+}
+
+.btn-orange:hover {
+    background: #D9A592 !important;
+    border-color: #D9A592 !important;
+}
+
+.btn-black {
+    background: #8B5E3C !important;
+    border-color: #8B5E3C !important;
+}
+
+.btn-black:hover {
+    background: #C38370 !important;
+    border-color: #C38370 !important;
+}
+
+/* Navigation */
+.main_header_area .header-content {
+    background: #FAF9F6;
+}
+
+.main_header_area .header_menu {
+    background: #E6D5C3;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #C38370 !important;
+}
+
+/* Rooms Section */
+.room-item {
+    background: #FAF9F6;
+}
+
+.room-content .price {
+    color: #C38370;
+}
+
+.deal-rating .checked {
+    color: #C38370 !important;
+}
+
+/* Services Section */
+.service-item:hover .service-content {
+    background: #E6D5C3;
+}
+
+.service-content h4 a:hover {
+    color: #C38370;
+}
+
+/* Reviews Section */
+.reviews {
+    background: #E6D5C3;
+}
+
+.slider-content h4 {
+    color: #C38370;
+}
+
+.slider-content span {
+    color: #8B5E3C;
+}
+
+/* News Section */
+.news-item {
+    background: #FAF9F6;
+}
+
+.news-content .date {
+    color: #C38370;
+}
+
+.news-content h4 a:hover {
+    color: #C38370;
+}
+
+.news-content a i {
+    color: #C38370;
+}
+
+/* Newsletter Section */
+.newsletter {
+    background: #E6D5C3;
+}
+
+/* Footer */
+footer {
+    background: #2E2E2E;
+}
+
+footer h4 {
+    color: #E6D5C3;
+}
+
+footer a:hover {
+    color: #C38370;
+}
+
+/* Form Elements */
+.form-control:focus {
+    border-color: #C38370;
+}
+
+/* Call to Action Section */
+.call-to-action {
+    background: #E6D5C3;
+}
+
+.call-content h2 span {
+    color: #C38370;
+}
+
+/* Hover Effects */
+a:hover {
+    color: #D9A592;
+}
+
+/* Icons */
+.fa, .fas {
+    color: #8B5E3C;
+}
+
+.fa:hover, .fas:hover {
+    color: #C38370;
+}
+
+/* Banner Form */
+.banner-form {
+    background: rgba(230, 213, 195, 0.9);
+}
+
+/* Gallery */
+.gallery-content {
+    background: rgba(195, 131, 112, 0.8);
+}
+
+/* Prices */
+.price span {
+    color: #8B5E3C;
+}
+
+/* Additional Modern Elements */
+.room-item, .news-item, .service-item {
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    transition: transform 0.3s ease;
+}
+
+.room-item:hover, .news-item:hover, .service-item:hover {
+    transform: translateY(-5px);
+}
+
+/* Smooth Transitions */
+a, button, .btn {
+    transition: all 0.3s ease;
+}
+
+/* Modern Input Styles */
+input, select, textarea {
+    background: #FAF9F6;
+    border: 1px solid #E6D5C3;
+}
+
+input:focus, select:focus, textarea:focus {
+    border-color: #C38370;
+    box-shadow: 0 0 5px rgba(195, 131, 112, 0.2);
+}
+
+/* Section Spacing */
+section {
+    padding: 80px 0;
+}
+
+/* Modern Card Styles */
+.room-item, .news-item, .service-item {
+    border-radius: 8px;
+    overflow: hidden;
+}

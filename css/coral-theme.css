@@ -1,0 +1,165 @@
+/* New color scheme with Coral (#C38370) as primary color */
+
+/* Text colors */
+.section-title h2 span,
+.price,
+.footer-contact h4,
+.footer-links h4,
+.footer-about h4,
+a:not(.navbar a):not(.nav a):hover,
+.service-item:hover h3,
+.main-title span,
+.room-details .room-title h3 a:hover,
+.blog-item:hover h4 a,
+.testimonial-item h3,
+.counter-item h3,
+.pricing-item:hover .price {
+    color: #C38370 !important;
+}
+
+/* Background colors */
+.btn-orange:not(.navbar .btn-orange):not(.nav .btn-orange),
+.service-item:hover .service-icon,
+.room-button .book-now,
+.newsletter .btn-orange,
+.blog-date,
+.page-item.active .page-link,
+.btn-primary,
+.back-to-top,
+.pricing-item:hover .btn,
+.testimonial-slider .slick-dots li.slick-active button,
+#preloader-wrapper .loading-center-absolute .object {
+    background: #C38370 !important;
+    border-color: #C38370 !important;
+}
+
+/* Border colors */
+.btn-orange,
+.book_now_btn,
+.form-control:focus,
+.pricing-item:hover,
+.testimonial-item,
+.service-item:hover {
+    border-color: #C38370 !important;
+}
+
+/* Hover states */
+.btn-orange:hover,
+.book_now_btn:hover,
+.room-button .book-now:hover {
+    background: #b57763 !important;
+    border-color: #b57763 !important;
+}
+
+/* Section backgrounds */
+.bg-primary,
+.section-title:after,
+.section-title:before {
+    background-color: #C38370 !important;
+}
+
+/* Gradients and overlays */
+.overlay:before {
+    background: linear-gradient(to right, #C38370 0%, rgba(195, 131, 112, 0.85) 100%) !important;
+}
+
+/* Border top colors */
+.navbar-nav li ul {
+    border-top-color: #C38370 !important;
+}
+
+/* Additional curved elements */
+.service-icon,
+.counter-item,
+.team-image,
+.facility-item,
+.achievement-item,
+.partner-item,
+.payment-option,
+.review-item,
+.special-offer,
+.room-facilities li,
+.amenity-item,
+.booking-widget,
+.filter-item {
+    border-radius: 12px !important;
+    overflow: hidden;
+}
+
+/* Small elements curves */
+.tag,
+.badge,
+.room-features span,
+.facility-icon,
+.small-button,
+.date-item,
+.status-badge,
+.room-number,
+.rate-item {
+    border-radius: 6px !important;
+}
+
+/* Input group combinations */
+.input-group .form-control:first-child {
+    border-top-right-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+}
+
+.input-group .btn:last-child {
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+}
+
+/* Cards and box shadows */
+.service-item,
+.room-item,
+.pricing-item,
+.team-item,
+.blog-item,
+.testimonial-item {
+    border-radius: 16px !important;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    transition: all 0.3s ease;
+}
+
+.service-item:hover,
+.room-item:hover,
+.pricing-item:hover,
+.team-item:hover,
+.blog-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
+
+/* Tables */
+table {
+    border-radius: 12px !important;
+    overflow: hidden;
+}
+
+/* Modals */
+.modal-content {
+    border-radius: 20px !important;
+}
+
+/* Alert messages */
+.alert {
+    border-radius: 10px !important;
+}
+
+/* Progress bars */
+.progress {
+    border-radius: 8px !important;
+}
+
+/* Tooltips */
+.tooltip-inner {
+    border-radius: 6px !important;
+}
+
+/* Calendar */
+.datepicker-dropdown {
+    border-radius: 12px !important;
+    overflow: hidden;
+}

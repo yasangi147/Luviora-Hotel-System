@@ -1,0 +1,58 @@
+[08-Jan-2020 08:25:06 UTC] PHP Notice:  Undefined index: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 23
+[08-Jan-2020 08:34:55 UTC] PHP Notice:  Undefined index: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 23
+[08-Jan-2020 08:35:15 UTC] PHP Notice:  Undefined index: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 23
+[08-Jan-2020 08:36:51 UTC] PHP Notice:  Undefined index: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 23
+[08-Jan-2020 08:37:15 UTC] PHP Notice:  Undefined index: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 23
+[08-Jan-2020 08:37:20 UTC] PHP Notice:  Undefined index: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 23
+[08-Jan-2020 09:09:33 UTC] PHP Notice:  Undefined index: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 23
+[08-Jan-2020 09:09:40 UTC] PHP Notice:  Undefined index: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 23
+[08-Jan-2020 09:09:44 UTC] PHP Notice:  Undefined index: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 23
+[08-Jan-2020 09:09:48 UTC] PHP Notice:  Undefined index: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 23
+[08-Jan-2020 09:09:50 UTC] PHP Notice:  Undefined index: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 23
+[08-Jan-2020 09:10:04 UTC] PHP Notice:  Undefined index: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 23
+[08-Jan-2020 09:11:16 UTC] PHP Notice:  Undefined index: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 23
+[08-Jan-2020 09:12:28 UTC] PHP Notice:  Undefined index: first_name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 23
+[08-Jan-2020 09:12:28 UTC] PHP Notice:  Undefined index: last_name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 25
+[08-Jan-2020 09:12:28 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 35
+[08-Jan-2020 09:12:34 UTC] PHP Notice:  Undefined index: first_name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 23
+[08-Jan-2020 09:12:34 UTC] PHP Notice:  Undefined index: last_name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 25
+[08-Jan-2020 09:12:34 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 35
+[08-Jan-2020 09:14:08 UTC] PHP Notice:  Undefined index: first_name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 23
+[08-Jan-2020 09:14:08 UTC] PHP Notice:  Undefined index: last_name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 25
+[08-Jan-2020 09:14:32 UTC] PHP Notice:  Undefined index: first_name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 23
+[08-Jan-2020 09:14:32 UTC] PHP Notice:  Undefined index: last_name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 25
+[08-Jan-2020 09:14:43 UTC] PHP Notice:  Undefined index: first_name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 23
+[08-Jan-2020 09:14:43 UTC] PHP Notice:  Undefined index: last_name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 25
+[08-Jan-2020 09:15:43 UTC] PHP Notice:  Undefined index: first_name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 23
+[08-Jan-2020 09:15:43 UTC] PHP Notice:  Undefined index: last_name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 25
+[08-Jan-2020 09:16:45 UTC] PHP Notice:  Undefined index: first_name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 23
+[08-Jan-2020 09:16:45 UTC] PHP Notice:  Undefined index: last_name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 25
+[08-Jan-2020 09:19:49 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 113
+[08-Jan-2020 09:19:49 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 117
+[08-Jan-2020 09:19:51 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 149
+[08-Jan-2020 09:21:19 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 113
+[08-Jan-2020 09:21:19 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 117
+[08-Jan-2020 09:21:24 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 149
+[08-Jan-2020 09:22:12 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 113
+[08-Jan-2020 09:22:12 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 117
+[08-Jan-2020 09:22:13 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 149
+[20-Mar-2020 06:13:58 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 63
+[20-Mar-2020 06:13:58 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 113
+[20-Mar-2020 06:13:58 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 117
+[20-Mar-2020 06:13:59 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 149
+[04-Apr-2020 06:56:01 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 63
+[04-Apr-2020 06:56:01 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 113
+[04-Apr-2020 06:56:01 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 117
+[04-Apr-2020 06:56:02 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 149
+[04-Apr-2020 13:20:55 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 63
+[04-Apr-2020 13:20:55 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 113
+[04-Apr-2020 13:20:55 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 117
+[04-Apr-2020 13:20:55 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 149
+[15-Jul-2020 15:23:23 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 63
+[15-Jul-2020 15:23:23 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 113
+[15-Jul-2020 15:23:23 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 117
+[15-Jul-2020 15:23:23 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 149
+[17-Jul-2020 23:58:04 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 63
+[17-Jul-2020 23:58:04 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 113
+[17-Jul-2020 23:58:04 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 117
+[17-Jul-2020 23:58:05 UTC] PHP Notice:  Undefined variable: name in /home/cyclonethemes/public_html/demo/html/hotux/mail/contact.php on line 149
